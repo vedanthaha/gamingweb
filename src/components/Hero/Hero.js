@@ -37,7 +37,7 @@ const Hero = () => {
             variants={fadeIn}
             custom={1}
           >
-            Built To Buy,<br />Designed To Delight
+            Built To Buy,<br />Designed to Show
           </motion.h1>
           
           {/* Supporting text with exact Framer styling */}
@@ -48,7 +48,7 @@ const Hero = () => {
             variants={fadeIn}
             custom={2}
           >
-            Natural tools and curated products designed to elevate your lifestyle.
+            Best gaming tools and accounts for your ease.
           </motion.p>
           
           {/* CTA button with arrow icon */}

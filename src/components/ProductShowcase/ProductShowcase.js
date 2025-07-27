@@ -13,33 +13,33 @@ const ProductShowcase = () => {
   const products = [
     {
       id: 1,
-      title: 'Precision Gaming Mouse',
-      description: 'Ultra-responsive gaming mouse with customizable RGB lighting and programmable buttons.',
-      category: 'Accessories',
+      title: 'Precision Gaming Headset',
+      description: 'High-quality gaming headset with noise-cancellation and clear audio.',
+      category: 'Audio',
       price: '$59.99',
       image: product1Image
     },
     {
       id: 2,
-      title: 'Premium Gaming Headset',
-      description: 'Immersive sound experience with noise-cancellation and crystal-clear microphone.',
-      category: 'Audio',
+      title: 'Premium Drink',
+      description: 'Best drink to have it while playing',
+      category: 'Drink',
       price: '$89.99',
       image: product2Image
     },
     {
       id: 3,
-      title: 'Legendary Weapon Skin',
-      description: 'Exclusive legendary weapon skin to showcase your status in the gaming world.',
-      category: 'Digital Items',
+      title: 'Energy drink',
+      description: 'Energy drink to have it while playing',
+      category: 'Drink',
       price: '$24.99',
       image: product3Image
     },
     {
       id: 4,
-      title: 'Pro Gaming Keyboard',
-      description: 'Mechanical gaming keyboard with customizable key mapping and anti-ghosting technology.',
-      category: 'Accessories',
+      title: 'Specialized Drink',
+      description: 'Specialized drink to have it while playing',
+      category: 'Drink',
       price: '$119.99',
       image: product4Image
     }
