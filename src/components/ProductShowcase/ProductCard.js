@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { useScrollReveal } from '../../utils/animation';
 
 const ProductCard = ({ product }) => {
-  const { title, description, category, price, image } = product;
+  const { title,category, price, image } = product;
   const [ref, isInView] = useScrollReveal();
   
   return (
